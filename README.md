@@ -16,4 +16,4 @@ I merged 2 datasets. I extracted the first dataset from the web using excel "fro
 - Removed the dollar signs and other special chracters and converted to currency in dollars. 
 - Used excel's IF, ISTEXT, XLLOOKUP, RIGHT & LEFT functions to remove the special characters.
 - A lot of blanks were present in financial stage column so I dropped the column.
-- I manually inputed the founding year rows that wee blank since the blanks weren't up to 30.
+- I manually inputed the founding year rows that were blank since the blanks weren't up to 30.
